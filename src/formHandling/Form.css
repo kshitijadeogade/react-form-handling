@@ -1,0 +1,29 @@
+form{
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgba(197, 235, 45, 0.536);
+    padding: 10px;
+    margin: 100px auto;
+    border-radius: 20px;
+    box-shadow: 2px 2px 4px #ccc;
+    width: 200px;
+    height: 200px;
+}
+
+input{
+    margin: 10px;
+    padding: 1px;
+    border: 1px solid rgba(197, 235, 45, 0.536);
+    border-radius: 5px;
+}
+
+button{
+    background: rgba(197, 235, 45, 0.536);
+    border: none;
+    border-radius: 5px;
+    padding: 3px;
+    width: 180px;
+}
